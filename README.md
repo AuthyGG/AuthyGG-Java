@@ -18,7 +18,7 @@ Now that you have your ``Application Name`` and ``Secret`` use it to initialize 
 Authy Library can be downloaded from Releases.
 
 Dependencies:
-gson
-flat-laf
-jsoup
-swingx-core
+* gson
+* flat-laf
+* jsoup
+* swingx-core

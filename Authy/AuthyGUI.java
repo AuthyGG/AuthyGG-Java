@@ -15,10 +15,7 @@ import org.jdesktop.swingx.border.DropShadowBorder;/*
  */
 import org.jdesktop.swingx.prompt.PromptSupport;
 
-/**
- *
- * @author cohen
- */
+
 public class AuthyGUI extends javax.swing.JFrame {
 	/**
 	 * 

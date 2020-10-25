@@ -14,7 +14,7 @@ a Java implementation of AuthyGG API
 ### Connecting panel to program
 Now that you have your ``Application Name`` and ``Secret`` use it to initialize and connect your application to our servers
 
-## Example can be seen in AuthyExample.java
+## Example can be seen in [AuthyExample.java](AuthyExample.java)
 
 Authy Library can be downloaded from Releases.
 

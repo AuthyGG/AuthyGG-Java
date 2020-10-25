@@ -7,6 +7,7 @@ a Java implementation of AuthyGG API
 
 * **Step 1** : Login to your panel and create your application
 * **Step 2** : Your application secret will be next to your application name
+* **Optional Step** : Set a payload to your Application, that can be anything from a 2nd Key authentication to the version number. the payload will be transferred to "Authy" Object upon valid Authentication and can be accessed with Authy.getpayload().
 * **Step 3** : Copy your secret and store it.
 
 
